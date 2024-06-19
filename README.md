@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Kibino9 😁
 
  <div>
-   <a href="https://github.com/Kibino">
+   <a href="https://github.com/Kibino9">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kibino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibino&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
